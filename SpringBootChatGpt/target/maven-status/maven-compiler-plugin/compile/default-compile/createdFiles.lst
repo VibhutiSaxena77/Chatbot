@@ -1,0 +1,9 @@
+com\springChatgpt\response\Choice.class
+com\springChatgpt\response\Usage.class
+com\springChatgpt\request\Request.class
+com\springChatgpt\request\InputRequest.class
+com\springChatgpt\SpringBootChatGptApplication.class
+com\springChatgpt\model\common\Message.class
+com\springChatgpt\service\SpringChatGptService.class
+com\springChatgpt\controller\SpringChatGptController.class
+com\springChatgpt\response\Response.class
